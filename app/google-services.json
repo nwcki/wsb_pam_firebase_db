@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "370423512049",
+    "firebase_url": "https://fir-dbtest-d7cf5.firebaseio.com",
+    "project_id": "fir-dbtest-d7cf5",
+    "storage_bucket": "fir-dbtest-d7cf5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370423512049:android:81b00e8091c7c830d1e250",
+        "android_client_info": {
+          "package_name": "pl.knowicki.wsb.firebasedb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370423512049-eog8jqo6kec2rcrsbt0n6p5qnqkr7jg6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNT4b2U8gTSsTP4i7HBgY6MW4D2ymuMlk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370423512049-eog8jqo6kec2rcrsbt0n6p5qnqkr7jg6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
